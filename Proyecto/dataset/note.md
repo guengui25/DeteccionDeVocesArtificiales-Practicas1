@@ -1,0 +1,1 @@
+Introducir en esta carpeta el dataset que se va a utilizar para el entrenamiento del modelo.
