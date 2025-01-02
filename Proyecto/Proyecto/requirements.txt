@@ -1,6 +1,0 @@
-matplotlib
-numpy
-librosa
-tqdm
-scikit-learn
-xgboost
