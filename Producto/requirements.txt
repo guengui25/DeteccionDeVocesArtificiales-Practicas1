@@ -1,0 +1,7 @@
+tk
+librosa
+numpy
+scikit-learn
+joblib
+pillow
+ffmpeg-python
